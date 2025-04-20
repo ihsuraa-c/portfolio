@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>Magic Wand Cursor - Light Theme High Contrast</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <!-- Background circle for visibility on any background -->
+        <circle fill="#FFFFFF" fill-opacity="0.7" cx="16" cy="16" r="15"></circle>
+        
+        <!-- Bold black outer stroke -->
+        <circle stroke="#000000" stroke-width="2" cx="16" cy="16" r="14.5"></circle>
+        
+        <!-- Wand Handle - Pure Black -->
+        <rect fill="#000000" x="14" y="18" width="4" height="10" rx="1" stroke="#000000" stroke-width="1"></rect>
+        
+        <!-- Wand Tip - Red with black outline -->
+        <path d="M16,4 L19,12 L13,12 L16,4 Z" fill="#FF0000" stroke="#000000" stroke-width="1.5"></path>
+        
+        <!-- Wand Middle - Dark grey with black outline -->
+        <rect fill="#333333" x="13" y="12" width="6" height="6" rx="1" stroke="#000000" stroke-width="1.5"></rect>
+        
+        <!-- Sparkles - Bright Red -->
+        <circle fill="#FF0000" stroke="#000000" stroke-width="1" cx="20" cy="8" r="1.5"></circle>
+        <circle fill="#FF0000" stroke="#000000" stroke-width="1" cx="12" cy="10" r="1"></circle>
+        <circle fill="#FF0000" stroke="#000000" stroke-width="1" cx="18" cy="5" r="0.8"></circle>
+        
+        <!-- Dark Red Glow -->
+        <circle fill-opacity="0.5" fill="#990000" cx="16" cy="8" r="6"></circle>
+    </g>
+</svg> 
